@@ -13,3 +13,6 @@ Estamos, reciclando el resto de la clase
 ###### Nivel 6 (H6)
 Imagen simple
 ![Texto alternativo](download.jpg)
+
+Imagen desde URL externa
+![Logo](https://github.com/Sam250647/intro-cd-202610499/blob/main/download.jpg)
