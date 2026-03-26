@@ -12,4 +12,4 @@ Estamos, reciclando el resto de la clase
 ##### Nivel 5 (H5)
 ###### Nivel 6 (H6)
 Imagen simple
-![Texto alternativo] 
+![Texto alternativo](https://tenor.com/view/gato-con-la-lengua-afuera-gif-22669559) 
